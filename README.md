@@ -116,6 +116,7 @@ All you need to do is:
 Before you see working app, you need to:
 1. Download Expo on your mobile device. For android, you can find it [here](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=pl&gl=US), for iOS - [here](https://apps.apple.com/pl/app/expo-go/id982107779?l=pl).
 2. Open Expo app and scan the QR code from image or use https://expo.io/@johnytomala/ePromotor link to find my project.
+   <br>
    <img src="screenshots/qr-code.jpg?raw=true" width="150">
 3. Now you are able to open newly added app.
 4. Choose which type of user you want to test and use specified credentials in login form:
